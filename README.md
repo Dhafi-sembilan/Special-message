@@ -1,5 +1,3 @@
-# Special-message
-For the pookie one
 <!DOCTYPE html>
 <html lang="en">
 <head>
